@@ -6,10 +6,6 @@
 
 ## 空格
 
-> 「有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。
->
-> 与大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
-
 ### 中英文之间需要增加空格
 
 正确：
@@ -84,33 +80,9 @@
 >
 > 刚刚买了一部 iPhone， 好开心！
 
-### 用 `text-spacing` 来挽救？
-
-CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 Microsoft 的 [`-ms-text-autospace`](https://msdn.microsoft.com/library/ms531164(v=vs.85).aspx) 可以实现自动为中英文之间增加空白。不过目前并未普及，另外在其他应用场景，例如 macOS、iOS、Windows 等用户界面目前并不存在这个特性，所以请继续保持随手加空格的习惯。
-
 ## 标点符号
 
-### 不重复使用标点符号
-
-虽然中国大陆的标点符号用法允许重复使用标点符号，但是这么做会破坏句子的美观性。
-
-正确：
-
-> 德国队竟然战胜了巴西队！
->
-> 她竟然对你说「喵」？！
-
-错误：
-
-> 德国队竟然战胜了巴西队！！
->
-> 德国队竟然战胜了巴西队！！！！！！！！
->
-> 她竟然对你说「喵」？？！！
->
-> 她竟然对你说「喵」？！？！？？！！
-
-## 全角和半角
+### 全角和半角
 
 不明白什么是全角（全形）与半角（半形）符号？请查看维基百科条目『[全角和半角](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
 
@@ -162,6 +134,18 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 ## 名词
 
+### 不要使用不地道的缩写
+
+正确：
+
+> 我们需要一位熟悉 TypeScript、HTML5，至少理解一种框架（如 React、Next.js）的前端开发者。
+
+错误：
+
+> 我们需要一位熟悉 Ts、h5，至少理解一种框架（如 RJS、nextjs）的 FED。
+
+## 以下规则推荐遵守，但不作强制要求
+
 ### 专有名词使用正确的大小写
 
 大小写相关用法原属于英文书写范畴，不属于本 wiki 讨论内容，在这里只对部分易错用法进行简述。
@@ -172,7 +156,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 >
 > 我们的客户有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
-错误：
+不正确，但可接受：
 
 > 使用 github 登录
 >
@@ -181,27 +165,23 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 > 使用 Github 登录
 >
 > 使用 gitHub 登录
->
-> 使用 gｲんĤЦ8 登录
->
-> 我们的客户有 github、foursquare、microsoft corporation、google、facebook, inc.。
->
-> 我们的客户有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
->
-> 我们的客户有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
->
-> 我们的客户有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
->
-> 我们的客户有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
 
-注意：当网页中需要配合整体视觉风格而出现全部大写／小写的情形，HTML 中请使用标淮的大小写规范进行书写；并通过 `text-transform: uppercase;`／`text-transform: lowercase;` 对表现形式进行定义。
+### 不重复使用标点符号
 
-### 不要使用不地道的缩写
+虽然中国大陆的标点符号用法允许重复使用标点符号，但是这么做会破坏句子的美观性。
 
 正确：
 
-> 我们需要一位熟悉 TypeScript、HTML5，至少理解一种框架（如 React、Next.js）的前端开发者。
+> 德国队竟然战胜了巴西队！
+>
+> 她竟然对你说「喵」？！
 
-错误：
+不正确，但可接受：
 
-> 我们需要一位熟悉 Ts、h5，至少理解一种框架（如 RJS、nextjs）的 FED。
+> 德国队竟然战胜了巴西队！！
+>
+> 德国队竟然战胜了巴西队！！！！！！！！
+>
+> 她竟然对你说「喵」？？！！
+>
+> 她竟然对你说「喵」？！？！？？！！
