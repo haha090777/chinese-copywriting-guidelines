@@ -186,13 +186,15 @@
 
 ### 专有名词使用正确的大小写
 
+大多数缩写是用主要单词大写首字母表示，例如：「FBI」表示「Federal Bureau of Investigation」，「KOL」表示「Key Opinion Leader」。
+
+一些缩写在字母之间使用句点，例如：「e.g.」表示「for example」，「Dr.」表示「Doctor」。
+
+常见的其他缩写，例如：「iOS」表示「iPhone Operating System」，「DC」表示「Discord」，「ChatGPT」表示「Chat Generative Pre-trained Transformer」。
+
 大小写相关用法原属于英文书写范畴，不属于本 wiki 讨论内容，在这里只对部分易错用法进行简述。
 
 注意有些词并不是专有名词，例如：K 线，T 恤。
-
-大多数缩写是用主要单词大写首字母表示，例如：「FBI」表示「Federal Bureau of Investigation」，「KOL」表示「Key Opinion Leader」。
-一些缩写在字母之间使用句点，例如：「e.g.」表示「for example」，「Dr.」表示「Doctor」。
-常见的其他缩写，例如：「iOS」表示「iPhone Operating System」，「DC」表示「Discord」，「ChatGPT」表示「Chat Generative Pre-trained Transformer」。
 
 正确：
 
