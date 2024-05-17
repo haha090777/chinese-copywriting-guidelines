@@ -255,3 +255,60 @@
 
 > 假设自己手中只有一张可打20个洞的投资决策卡。每作一次投资，就在卡片上打一个洞。相对地，能做投资决定的次数也就减少一次。假如投资人真受到这样的限制，他无们就会耐心地等待绝佳的投资机会出现，而不会轻率地作决定。
 
+## 附
+### 常见缩写
+AMA: Ask Me Anything，项目方面向公众的问答会。
+AMM: Autonomous Market Making，自动化做市商，是去中心化交易所的常用技术。
+ATH: All Time High，历史最高的价格。
+ATL: All Time Low，历史最低的价格。
+APR: Annual percent rate，年度百分比利率，是在考虑复利之前的年回报率。
+APY: Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。
+BUIDL: 来自 BUILD 的错字，鼓励开发者继续构建和创新，而不是仅仅为了短期利益而投资加密货币。
+CeFi: Centralized Finance，中心化金融。
+CEX: Centralized Exchange，中心化交易所。
+DAO: Decentralized Autonomous Organization，去中心化自治组织。
+Dapp: Decentralized Application，去中心化应用。
+DeFi: Decentralized Finance，去中心化金融。
+Degen: Degenerate，赌徒/梭哈的人。
+DEX: Decentralized Exchange，去中心化交易所
+DM: Direct Message，私信。
+DYOR: Do Your Own Research，自己研究，自己负责。
+FUD: Fear, Uncertainty，and Doubt，过分夸大的市场的消极信息。
+FED: The Federal Reserve 美联储。
+FDV: Fully Diluted Valuation，即完全稀释估值。
+FYI: For Your Information，供你参考。
+GAS: 燃料，表示在区块链完成交易所需的计算工作量。
+GM: Good Morning，早安。
+GN: Good Night，晚安。
+HODL: Hold On Dear Love，钻石手，长期持有。
+ICO: Initial Coin Offering 首次代币发行。
+IFO: Initial Farm Offering 首次农场（质押）发行。
+IEO: Initial Exchange Offering 首次交易所发行（比如在币安交易所发行）。
+IDO: Initial DEX Offering 首次去中心化交易所发行（比如在Pancakeswap上发行）。
+IPFS: InterPlanetary File System，是一个去中心化的文件存储和获取协议。
+IV: Implied Volatility，隐含波动率，通常用于期权定价。
+ILO: Initial Liquidity Offering，类似于IDO，但更加强调流动性提供。
+KYC: Know Your Customer，是一种交易所审核客户的机制。
+KOL: Key Opinion Leader，关键意见领袖。通常指社交媒体或某一领域内的影响力人物。
+LFG: Let's Fucking Go！冲！梭哈！
+LGTM: Looks good to me，我看行。
+LMAO: Laugh My Ass Off 笑死我了。
+MEME: 谜因，梗，可以传播的东西。
+MEV: Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
+Mint: 铸造 NFT/ERC20。
+NFA: Not Financial Advice，不是投资建议。
+NFT: Non-Fungible Token，非同质化代币。
+NGMI: Not Ganna Make It，不会成功的。
+Noob: 菜鸡。
+NGL: Not Gonna Lie，老实说。
+OG: Original Gangster，元老。
+OTC: Over The Counter，场外交易。
+PFP: Profile Picture，个人头像。
+PoS: Proof of Stake，权益证明，参与者通过持仓质押维护区块链网络正常运行。
+PoW: Proof of Work，工作量证明，参与者通过花费计算能力和能量维护区块链网络正常运行。
+RUG: Rug-Pull，撤摊子/跑路/归零。
+TVL: Total Value Locked，协议中锁定的资金总价值。
+To The Moon: 暴涨。
+WEN: When，什么时候。
+WL: White List，白名单。
+WTF: What The Fuck，常用来表示震惊、困惑、不满或者惊讶的情感。
