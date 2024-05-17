@@ -190,7 +190,9 @@
 
 注意有些词并不是专有名词，例如：K 线，T 恤。
 
-大多数缩写是用主要单词大写首字母表示，例如：「FBI」表示「Federal Bureau of Investigation」，「KOL」表示「Key Opinion Leader」。一些缩写在字母之间使用句点，例如：「e.g.」表示「for example」，「Dr.」表示「Doctor」。常见的其他缩写，例如：「iOS」表示「iPhone Operating System」，「DC」表示「Discord」，「ChatGPT」表示「Chat Generative Pre-trained Transformer」。
+大多数缩写是用主要单词大写首字母表示，例如：「FBI」表示「Federal Bureau of Investigation」，「KOL」表示「Key Opinion Leader」。
+一些缩写在字母之间使用句点，例如：「e.g.」表示「for example」，「Dr.」表示「Doctor」。
+常见的其他缩写，例如：「iOS」表示「iPhone Operating System」，「DC」表示「Discord」，「ChatGPT」表示「Chat Generative Pre-trained Transformer」。
 
 正确：
 
@@ -249,7 +251,7 @@
 
 正确：
 
-> 假设自己手中只有一张可打20个洞的投资决策卡。每作一次投资，就在卡片上打一个洞。相对地，能做投资决定的次数也就减少一次。
+> 假设自己手中只有一张可打 20 个洞的投资决策卡。每作一次投资，就在卡片上打一个洞。相对地，能做投资决定的次数也就减少一次。
 >
 > 假如投资人真受到这样的限制，他无们就会耐心地等待绝佳的投资机会出现，而不会轻率地作决定。
 
