@@ -316,5 +316,5 @@ RUG: Rug-Pull，撤摊子/跑路/归零。
 TVL: Total Value Locked，协议中锁定的资金总价值。  
 To The Moon: 暴涨。  
 WEN: When，什么时候。  
-WL: White List，白名单。  
+WL: Whitelist，白名单。  
 WTF: What The Fuck，常用来表示震惊、困惑、不满或者惊讶的情感。  
