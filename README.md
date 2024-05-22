@@ -354,3 +354,4 @@ WTF: What The Fuck，常用来表示震惊、困惑、不满或者惊讶的情�
 | 30  | Reddit    |
 | 31  | GitHub    |
 | 32  | Web3      |
+| 33  | PS5       |
