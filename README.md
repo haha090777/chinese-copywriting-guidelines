@@ -268,7 +268,7 @@ AMM: Autonomous Market Making，自动化做市商，是去中心化交易所的
 ATH: All Time High，历史最高的价格。  
 ATL: All Time Low，历史最低的价格。  
 APR: Annual percent rate，年度百分比利率，是在考虑复利之前的年回报率。  
-APY: Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。  
+APY: Annual Percentage Yield，年利率，DeFi 项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。  
 BUIDL: 来自 BUILD 的错字，鼓励开发者继续构建和创新，而不是仅仅为了短期利益而投资加密货币。  
 CeFi: Centralized Finance，中心化金融。  
 CEX: Centralized Exchange，中心化交易所。  
@@ -290,10 +290,10 @@ HODL: Hold On Dear Love，钻石手，长期持有。
 ICO: Initial Coin Offering 首次代币发行。  
 IFO: Initial Farm Offering 首次农场（质押）发行。  
 IEO: Initial Exchange Offering 首次交易所发行（比如在币安交易所发行）。  
-IDO: Initial DEX Offering 首次去中心化交易所发行（比如在Pancakeswap上发行）。  
+IDO: Initial DEX Offering 首次去中心化交易所发行（比如在 Pancakeswap 上发行）。  
 IPFS: InterPlanetary File System，是一个去中心化的文件存储和获取协议。  
 IV: Implied Volatility，隐含波动率，通常用于期权定价。  
-ILO: Initial Liquidity Offering，类似于IDO，但更加强调流动性提供。  
+ILO: Initial Liquidity Offering，类似于 IDO，但更加强调流动性提供。  
 KYC: Know Your Customer，是一种交易所审核客户的机制。  
 KOL: Key Opinion Leader，关键意见领袖。通常指社交媒体或某一领域内的影响力人物。  
 LFG: Let's Fucking Go！冲！梭哈！  
