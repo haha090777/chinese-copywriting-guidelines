@@ -273,12 +273,14 @@ BUIDL: 来自 BUILD 的错字，鼓励开发者继续构建和创新，而不是
 CeFi: Centralized Finance，中心化金融。  
 CEX: Centralized Exchange，中心化交易所。  
 DAO: Decentralized Autonomous Organization，去中心化自治组织。  
+dYdX: 去中心化衍生品交易平台。
 Dapp: Decentralized Application，去中心化应用。  
 DeFi: Decentralized Finance，去中心化金融。  
 Degen: Degenerate，赌徒/梭哈的人。  
 DEX: Decentralized Exchange，去中心化交易所。  
 DM: Direct Message，私信。  
 DYOR: Do Your Own Research，自己研究，自己负责。  
+ENS: Ethereum Name Service，以太坊域名服务。
 FUD: Fear, Uncertainty，and Doubt，过分夸大的市场的消极信息。  
 FED: The Federal Reserve 美联储。  
 FDV: Fully Diluted Valuation，即完全稀释估值。  
@@ -318,3 +320,4 @@ To The Moon: 暴涨。
 WEN: When，什么时候。  
 WL: Whitelist，白名单。  
 WTF: What The Fuck，常用来表示震惊、困惑、不满或者惊讶的情感。  
+
