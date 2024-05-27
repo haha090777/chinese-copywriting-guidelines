@@ -317,4 +317,45 @@ TVL: Total Value Locked，协议中锁定的资金总价值。
 To The Moon: 暴涨。  
 WEN: When，什么时候。  
 WL: Whitelist，白名单。  
-WTF: What The Fuck，常用来表示震惊、困惑、不满或者惊讶的情感。  
+WTF: What The Fuck，常用来表示震惊、困惑、不满或者惊讶的情感。
+
+### 补充常见专有名词
+| 序号 | 专有名词  |
+|:---:|:---------:|
+| 1   | iPhone    |
+| 2   | Android   |
+| 3   | MacBook   |
+| 4   | Windows   |
+| 5   | Google    |
+| 6   | Facebook  |
+| 7   | Tesla     |
+| 8   | Amazon    |
+| 9   | Netflix   |
+| 10  | iPad      |
+| 11  | Samsung   |
+| 12  | PlayStation |
+| 13  | Xbox      |
+| 14  | YouTube   |
+| 15  | Instagram |
+| 16  | Microsoft |
+| 17  | Apple     |
+| 18  | WhatsApp  |
+| 19  | Spotify   |
+| 20  | LinkedIn  |
+| 21  | Twitter   |
+| 22  | Uber      |
+| 23  | Airbnb    |
+| 24  | Zoom      |
+| 25  | Gmail     |
+| 26  | Huawei    |
+| 27  | Kindle    |
+| 28  | Adobe     |
+| 29  | Nintendo  |
+| 30  | Reddit    |
+| 31  | GitHub    |
+| 32  | Web3      |
+| 33  | PS5       |
+| 34  | OKX       |
+| 35  | Coinbase  |
+| 36  | Ordinals  |
+| 37  | UniSat    |
