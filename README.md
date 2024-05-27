@@ -3,7 +3,6 @@
 统一中文文案、排版的相关用法，降低社区成员之间的沟通成本，增强社区气质。
 
 * * *
-
 - [中文文案排版指北 NextDAO 修订版](#---------nextdao----)
   * [1. 空格](#1---)
     + [中英文之间需要增加空格](#-----------)
@@ -29,6 +28,9 @@
   * [5. 附](#5--)
     + [常见缩写](#----)
     + [补充常见专有名词](#--------)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 * * *
 
