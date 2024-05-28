@@ -489,28 +489,6 @@
 
   </details>
 
-### 适度使用，每段文字不超过 2 个 Emoji，避免过度的情绪化表达。
-
-  <details open>
-  <summary>正确</summary>
-
-  <br>
-
-  > 小狐狸家人真的太有爱了 🫰
-
-  </details>
-
-  <details open>
-  <summary>错误</summary>
-
-  <br>
-
-  > PEPE 又 ATH 了，都给我冲 💥💥💥
-
-  > 凉子又来了喊单了 🐶🤮💩🔪
-
-  </details>
-
 ### 保持礼貌，避免使用有攻击性或侮辱性的 Emoji。
 
   <details open>
@@ -532,41 +510,6 @@
   > 你说的这些内容都是 💩
 
   > 这个项目太垃圾了 👎
-
-  </details>
-
-### Emoji 加在文字和段落的结尾。
-
-  <details open>
-  <summary>正确</summary>
-
-  <br>
-
-  > 最近发现了一个好项目 🚀
-
-  </details>
-
-  <details open>
-  <summary>错误</summary>
-
-  <br>
-
-  > 🚀 最近发现了一个好项目
-
-  > 最近发现了一个🚀 好项目
-
-  </details>
-
-### 避免中英文表达中与 Emoji 混用。
-
-  <details open>
-  <summary>错误</summary>
-
-  <br>
-
-  > 这个项目🔥了，感觉🈶戏，家人们冲啊！
-
-  > 7️⃣🈷️我✈️上海，一起打🎾啊
 
   </details>
 
